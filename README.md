@@ -29,9 +29,9 @@ As long as at least one of the SMT solvers is present, RealSyn can be run succes
 If only a subset of the proposed solvers are available, comment the appropriate imports from 
 
 ## Disclaimer : 
-** The VM (.ova file) has only been tested on `VirtualBox` on Linux and MacOS. 
+**The VM (.ova file) has only been tested on `VirtualBox` on Linux and MacOS. 
 We are seeing very different results like core dump on other platforms using exactly 
-the same .ova file **
+the same .ova file**
 
 ## Reproducing the results from the paper
 
