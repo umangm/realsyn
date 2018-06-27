@@ -9,13 +9,15 @@ The details of the technical aspect of the approach are outlined in our paper
 The tool is implemented in Python.
 
 ## VM image
-RealSyn VM can be downloaded from : [https://uofi.app.box.com/v/realsynInstructions](https://uofi.app.box.com/v/realsynInstructions) .
+Users not wanting to install the pre-requisite libraries can download a virtual machine.
+The instructions for obtaining RealSyn VM can be downloaded from : [https://uofi.app.box.com/v/realsynInstructions](https://uofi.app.box.com/v/realsynInstructions) .
 
 ## Installation (Skip if you are using the VM)
 
 **The provided VM comes with pre-installed libraries. You can skip this section if you are using the VM provided for CAV'18 Artifact Evaluation.**
 
 RealSyn relies on the Python bindings of the following libraries:
+
 	1. CVXOPT
 	2. PICOS
 	3. numpy scipy matplotlib
