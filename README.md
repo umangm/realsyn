@@ -8,14 +8,8 @@ The details of the technical aspect of the approach are outlined in our paper
 **Controller Synthesis Made Real: Reach-avoid Specifications and Linear Dynamics**.
 The tool is implemented in Python.
 
-## Download 
-
-### VM image
-RealSyn VM can be downloaded from : https://tinyurl.com/realsyn-cav18-artifact
-
-### Source files
-The source files can be downloaded from here: http://umathur3.web.engr.illinois.edu/RealSyn.zip .
-After downloading the zip file, extract it.
+## VM image
+RealSyn VM can be downloaded from : [https://uofi.app.box.com/v/realsynInstructions](https://uofi.app.box.com/v/realsynInstructions) .
 
 ## Installation (Skip if you are using the VM)
 
