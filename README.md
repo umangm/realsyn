@@ -59,7 +59,7 @@ For example, to run the 15th benchmark, with `CVC4`, run:
 python realsyn.py -b 15 -s cvc4
 ```
 
-** Remark ** Some of the benchmarks (especially those with high dimensions)
+**Remark** Some of the benchmarks (especially those with high dimensions)
 may not run fast, and it a slow-down of about 5x should be expected.
 This is because, the RAM of the VM is set to 4GB and the experiments in 
 the paper have been performed on a RAM of 16GB.
@@ -175,7 +175,7 @@ d) Benchmark-3  on cvc4
 e) Benchmark-23 on cvc4
 f) Benchmark-22 on yices
 
-** Remark ** Because some of the examples can take a very long time (more than 1 hour),
+**Remark** Because some of the examples can take a very long time (more than 1 hour),
 especially on the supplied VM (because of limited RAM available), 
 it is advisable to run these examples overnight. The expected running time is more than 5 hours.
 Better still, run the script `runall_fast.py` (described in point 4.).
@@ -240,7 +240,7 @@ python generate_figure.py
 ```
 This will generate file `figure-2.png` in the source folder `RealSyn`.
 
-** Remark ** : The figure differs from the one presented in the paper
+**Remark** : The figure differs from the one presented in the paper
 because there we plotted two different trajectories, but here, we are just plotting 
 a single trajectory.
 
